@@ -12,3 +12,4 @@ gunicorn
 whitenoise
 python-dotenv
 django-jazzmin
+django-crispy-forms
