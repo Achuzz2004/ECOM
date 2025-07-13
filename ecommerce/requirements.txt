@@ -14,3 +14,5 @@ python-dotenv
 django-jazzmin
 django-crispy-forms
 Pillow
+cloudinary
+django-cloudinary-storage
